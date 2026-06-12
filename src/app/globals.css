@@ -12,6 +12,7 @@
   --academy-orange: #ff8a2a;
   --academy-violet: #6652ff;
   --academy-hero-banner-bg-gradient: linear-gradient(128deg, #2a858a 0%, #1f6f74 46%, #195a5e 100%);
+  --academy-teal-solid: #1f6f74;
   --academy-button-primary-solid: #2e2f31;
   --academy-button-primary-solid-hover: #111319;
   --academy-footer-text-color: rgba(90, 99, 120, 0.66);
@@ -34,6 +35,7 @@
   --color-shell: var(--academy-session-shell-border);
   --color-orange: var(--academy-orange);
   --color-violet: var(--academy-violet);
+  --color-teal: var(--academy-teal-solid);
   --color-button-primary: var(--academy-button-primary-solid);
   --color-button-primary-hover: var(--academy-button-primary-solid-hover);
   --color-footer: var(--academy-footer-text-color);
